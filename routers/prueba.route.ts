@@ -20,3 +20,4 @@ router.post(
 router.get("/getPrueba", getPrueba);
 
 export default router;
+  
